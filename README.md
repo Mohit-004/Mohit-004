@@ -1,18 +1,20 @@
 ## 👋 Mohit Ghegadmal  
-🎓 Computer Engineering Student | 💻 Full-Stack Web Developer | 📊 Data Science & AI/ML Learner
+🎓 **Computer Engineering Student** | 💻 **Full-Stack Web Developer** | 📊 **Data Science & AI/ML Learner**
+
+Designing and developing reliable web systems with a focus on clean architecture, scalability, and real-world usability.
 
 ---
 
-### 🧑‍💼 About Me
+## 🧑‍💼 About Me
 
 🎓 **Computer Engineering Student**  
-Working on full-stack web development projects with a strong academic foundation.
+Actively working on full-stack web development projects with a strong academic foundation.
 
 💻 **Modern Web Technologies**  
-Focused on building real-world applications using contemporary frontend and backend tools.
+Building practical applications using contemporary frontend and backend tools.
 
 🧱 **Scalable System Design**  
-Interested in developing maintainable, efficient, and scalable software systems.
+Focused on writing maintainable, efficient, and scalable software.
 
 📊 **Data Science & Machine Learning**  
 Exploring data-driven approaches to enhance application intelligence.
@@ -21,7 +23,6 @@ Exploring data-driven approaches to enhance application intelligence.
 Engaged in research-oriented learning and innovation-focused problem solving.
 
 ---
-
 
 ## 🛠️ Technical Skills
 
@@ -57,9 +58,7 @@ C++ • Java • Python
 
 ---
 
-
-
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 🚀 **Full-Stack Development**  
 Building scalable web applications using modern frontend and backend technologies.
@@ -71,13 +70,16 @@ Designing RESTful APIs with proper authentication and secure data handling.
 Exploring data-driven models and foundational ML concepts.
 
 🔬 **Research & Innovation**  
-Engaging in research-oriented learning and experimenting with emerging technologies.
+Experimenting with emerging technologies through research-oriented learning.
 
+---
 
-### 🧠 Approach
-I focus on writing clean, structured code and building applications that are practical, scalable, and easy to maintain.
+## 🧠 Development Approach
+I prioritize clean, structured code and build applications that are practical, scalable, and easy to maintain. My approach emphasizes strong fundamentals, thoughtful design decisions, and continuous improvement.
 
+---
 
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)     [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit-004) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit-004)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
