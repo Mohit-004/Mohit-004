@@ -57,11 +57,6 @@ C++ • Java • Python
 
 ---
 
-### 🔧 Tools & Development Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-Git • GitHub • VS Code
 
 
 ### 🎯 Current Focus
