@@ -1,83 +1,127 @@
-## 👋 Mohit Ghegadmal  
-🎓 Computer Engineering Student | 💻 Full-Stack Web Developer | 📊 Data Science & AI/ML Learner
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Ghegadmal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Designing+clean+RESTful+APIs;Exploring+Machine+Learning+%26+AI;Writing+code+that+stands+the+test+of+time" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit-004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit@email.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mohit-004&color=7c3aed&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Mohit-004?color=7c3aed&style=flat-square&label=Followers)
+
+</div>
 
 ---
 
-### 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
-🎓 **Computer Engineering Student**  
-Working on full-stack web development projects with a strong academic foundation.
-
-💻 **Modern Web Technologies**  
-Focused on building real-world applications using contemporary frontend and backend tools.
-
-🧱 **Scalable System Design**  
-Interested in developing maintainable, efficient, and scalable software systems.
-
-📊 **Data Science & Machine Learning**  
-Exploring data-driven approaches to enhance application intelligence.
-
-🔬 **Research & Innovation**  
-Engaged in research-oriented learning and innovation-focused problem solving.
+```ts
+const mohit = {
+  role        : "Computer Engineering Student",
+  focus       : ["Full-Stack Development", "Backend APIs", "AI/ML"],
+  currentlyOn : "Building scalable web apps & exploring data-driven models",
+  approach    : "Clean architecture · Practical solutions · Continuous learning",
+  openTo      : ["Collaborations", "Research", "Internships", "Open Source"],
+};
+```
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+<div align="center">
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-HTML • CSS • JavaScript • React
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases & Platforms**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-Node.js • Express.js
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohit-004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mohit-004&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="70%" />
+
+</div>
 
 ---
 
-### 🗄️ Databases & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,appwrite" />
-</p>
-MongoDB • Firebase • Appwrite
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🚀 Full-Stack Dev | 🔐 APIs & Security | 📊 Data Science & ML | 🔬 Research |
+|:---:|:---:|:---:|:---:|
+| Scalable MERN apps with modern architecture | RESTful APIs with auth & secure data handling | ML fundamentals & data-driven models | Emerging tech & innovation-driven learning |
+
+</div>
 
 ---
 
-### 💡 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
-</p>
-C++ • Java • Python
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mohit-004/Mohit-004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
+## 💡 Philosophy
 
+<div align="center">
 
-### 🎯 Current Focus
+*"Clean architecture isn't just about code — it's about building systems that stand up under real-world conditions."*
 
-🚀 **Full-Stack Development**  
-Building scalable web applications using modern frontend and backend technologies.
+**Open to collaboration · Research opportunities · Interesting projects**
 
-🔐 **Backend APIs & Security**  
-Designing RESTful APIs with proper authentication and secure data handling.
+</div>
 
-📊 **Data Science & Machine Learning**  
-Exploring data-driven models and foundational ML concepts.
-
-🔬 **Research & Innovation**  
-Engaging in research-oriented learning and experimenting with emerging technologies.
-
-
-### 🧠 Approach
-I focus on writing clean, structured code and building applications that are practical, scalable, and easy to maintain.
-
-
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-k-ghegadmal-632b852a9/)     [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohit-004) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitghegadmal2004@gmail.com)
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
