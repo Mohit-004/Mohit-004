@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Ghegadmal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:4f46e5,75:7c3aed,100:ec4899&height=250&section=header&text=Mohit%20Ghegadmal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Computer%20Engineer&descSize=18&descAlignY=65&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Designing+clean+RESTful+APIs;Exploring+Machine+Learning+%26+AI;Writing+code+that+stands+the+test+of+time" alt="Typing SVG" />
@@ -124,4 +124,4 @@ const mohit = {
 </div>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,25:7c3aed,50:4f46e5,75:1e293b,100:0f172a&height=150&section=footer&animation=fadeIn" width="100%" />
