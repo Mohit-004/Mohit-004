@@ -78,12 +78,7 @@ const mohit = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohit-004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
-
-</div>
 
 <div align="center">
 
@@ -104,12 +99,6 @@ const mohit = {
 </div>
 
 ---
-
-## 🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Mohit-004/Mohit-004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
