@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:4f46e5,75:7c3aed,100:ec4899&height=250&section=header&text=Mohit%20Ghegadmal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Computer%20Engineer&descSize=18&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:4f46e5,75:7c3aed,100:ec4899&height=250&section=header&text=Mohit%20K%20Ghegadmal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Computer%20Engineer&descSize=18&descAlignY=65&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Designing+clean+RESTful+APIs;Exploring+Machine+Learning+%26+AI;Writing+code+that+stands+the+test+of+time" alt="Typing SVG" />
